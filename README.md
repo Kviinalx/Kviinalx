@@ -65,7 +65,7 @@
 <div align="left">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="react native logo"  />
+  <img src="https://skillicons.dev/icons?i=reactnative-original.svg" height="40" alt="react native logo"  />
   <img width="12" />
 </div>
 
