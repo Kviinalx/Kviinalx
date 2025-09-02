@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨🏻‍🎓 Titulado de Analista programador en Duoc UC.<br><br>📚 Actualmente, soy estudiante de Ing.Informatica.<br><br>🎯 Estoy en busca de nuevas oportunidades de Trabajo.<br><br>🎲 Colaborador eficiente en equipos, apasionado por la tecnología y la contribución a proyectos desafiantes.</p>
+<p align="left">👨🏻‍🎓 Titulado de Analista programador en Duoc UC.<br><br>📚 Titulado de Ing.Informatica.<br><br>🎯 Estoy en busca de nuevas oportunidades de Trabajo.<br><br>🎲 Colaborador eficiente en equipos, apasionado por la tecnología y la contribución a proyectos desafiantes.</p>
 
 ###
 
